@@ -1,4 +1,11 @@
 # React + Vite
+# Multi_StepForm
+# React js
+# Tailwind CSS
+# Responsive Form
+# Stepper Component
+# Formik-Yup
+# Front-End-Developer
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
